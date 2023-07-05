@@ -5,6 +5,10 @@
 // @import "variables";
 
 // Bootstrap
-@import "bootstrap/scss/bootstrap";
+@import 'bootstrap/scss/bootstrap';
 @import "bootstrap-icons/font/bootstrap-icons.css";
-// @import "node_modules/font-awesome/scss/font-awesome.scss";
+
+// DataTables
+@import "datatables.net-bs5/css/dataTables.bootstrap5.css";
+@import "datatables.net-buttons-bs5/css/buttons.bootstrap5.css";
+
